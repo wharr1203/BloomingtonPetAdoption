@@ -4,6 +4,8 @@
 
 ASPCA is looking to use resources in a cost-effective manner to help. Most pets get adopted within a month of the date that they are placed in a shelter. If it takes longer than that and the shelter is full, the animal can be euthanized, but the legal required holding time before euthanization is a week. The purpose of this project is to construct a model that can correctly classify the dogs that have the hardest time getting adopted, so that the shelters can advertise those pets more and push potential adopters towards them.
 
+Information about the legal holding time for animal shelters can be found on this [animal law](https://www.animallaw.info/topic/state-holding-period-laws-impounded-animals#:~:text=These%20laws%20provide%20the%20minimum%20required%20period%20that,holding%20period%20runs%20from%20five%20to%20seven%20days.)website.
+
 ## Data Understanding
 
 The dataset that I used can be found [here](https://bloomington.data.socrata.com/dataset/Animal-Shelter-Animals/e245-r9ub)
