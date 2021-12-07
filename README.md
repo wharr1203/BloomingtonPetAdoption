@@ -6,6 +6,11 @@ ASPCA is looking to use resources in a cost-effective manner to help. Most pets 
 
 Information about the legal holding time for animal shelters can be found on this [animal law](https://www.animallaw.info/topic/state-holding-period-laws-impounded-animals#:~:text=These%20laws%20provide%20the%20minimum%20required%20period%20that,holding%20period%20runs%20from%20five%20to%20seven%20days.) website.
 
+## Notebook Sequence
+1.  EDA Cleaning Notebook
+2.  Main Notebook
+3.  You can then look at additional visualizations in the visualization notebook
+
 ## Data Understanding
 
 The dataset that I used can be found [here](https://bloomington.data.socrata.com/dataset/Animal-Shelter-Animals/e245-r9ub)
@@ -20,7 +25,7 @@ The dataset that I used can be found [here](https://bloomington.data.socrata.com
 - The data cones from the city of bloomington open data portal.
  
 
-Dogs take up more on average than cats, so the dog sections can run out of space quicker than the cat sections. That's why I am using 21 days as the standard for dog adoption speed and using a month as the cutoff point for cat adoption speed. More information about the space requirements for dogs and cats can be found [here](https://www.maddiesfund.org/design-for-shelter-animals.htm)
+Dogs take up more space on average than cats, so the dog sections can run out of space quicker than the cat sections. That's why I am using 21 days as the standard for dog adoption speed and using a month as the cutoff point for cat adoption speed. More information about the space requirements for dogs and cats can be found [here](https://www.maddiesfund.org/design-for-shelter-animals.htm)
 
 __Dogs__ 
   - 1 = Dogs that were adopted in less than 21 days
@@ -46,6 +51,11 @@ When splitting the data for training and testing, I first put away 15% of it to 
 After testing the models, Logistic regression gave me a false positive rate of 20%, meaning that it only ignores 20% of the cats that take longer than a month to get adopted, It had precision and accuracy scores of 58% when tested on the holdout set.
 
 The Dog Model had a false positive rate of 56%, but was very good at classifying the dogs that got adopted in less then 3 weeks.(77%)
+
+## Recommendations
+
+- Release literature addressing the stigma about black cats
+- Make more use of the media to portray pitbulls in a different light
 
 ## Conclusion
 
