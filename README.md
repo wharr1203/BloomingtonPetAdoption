@@ -56,6 +56,7 @@ The Dog Model had a false positive rate of 56%, but was very good at classifying
 
 - Release literature addressing the stigma about black cats
 - Make more use of the media to portray pitbulls in a different light
+- Stage animals with unfavorable characteristics in areas that get the most customer traffic
 
 ## Conclusion
 
