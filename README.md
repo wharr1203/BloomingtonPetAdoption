@@ -61,3 +61,7 @@ The Dog Model had a false positive rate of 56%, but was very good at classifying
 ## Conclusion
 
 Because the models are not as accurate as I would like, I recommend that you use the model in conjunction with your own domain knowledge to help the animals that really need assistance in finding safe homes.
+
+![graph1](https://github.com/wharr1203/BloomingtonPetAdoption/blob/main/Images/shelter.png)
+![graph2](https://github.com/wharr1203/BloomingtonPetAdoption/blob/main/Images/dogs.png)
+![graph3](https://github.com/wharr1203/BloomingtonPetAdoption/blob/main/Images/cats.png)
