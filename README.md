@@ -61,3 +61,12 @@ The Dog Model had a false positive rate of 56%, but was very good at classifying
 ## Conclusion
 
 Because the models are not as accurate as I would like, I recommend that you use the model in conjunction with your own domain knowledge to help the animals that really need assistance in finding safe homes.
+
+### Shelter population
+![graph1](https://github.com/wharr1203/BloomingtonPetAdoption/blob/main/Images/shelter.png)
+
+### Top 3 breeds that get put to sleep
+![graph2](https://github.com/wharr1203/BloomingtonPetAdoption/blob/main/Images/dogs.png)
+
+### Colors of cats that had trouble getting adopted
+![graph3](https://github.com/wharr1203/BloomingtonPetAdoption/blob/main/Images/cats.png)
