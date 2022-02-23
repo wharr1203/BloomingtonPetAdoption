@@ -69,4 +69,4 @@ Because the models are not as accurate as I would like, I recommend that you use
 ![graph2](https://github.com/wharr1203/BloomingtonPetAdoption/blob/main/Images/dogs.png)
 
 ### Colors of cats that had trouble getting adopted
-![graph3](https://github.com/wharr1203/BloomingtonPetAdoption/blob/main/Images/cats.png)
+![graph3](https://github.com/wharr1203/BloomingtonPetAdoption/blob/main/Images/cat_colors.png)
